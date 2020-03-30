@@ -7,41 +7,67 @@
 
 
 #### Pre-requisites
+- you have cloned and forked a repository to your local device  
+
 __Things that should already be installed__
 - GitHub Desktop app
-- *GitBash software (???)*
+- [Git](https://git-scm.com/downloads)
+  - [installation guides](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### How to Update a Forked Repo  
-__A step-by-step tutorial__  
-([from Sophia's tutorial/resources](https://gist.github.com/CristinaSolana/1885435), my comments given in *italics*)  
+Assuming you have already cloned your forked repo to your local device, there are two methods for updating a forked repo:  
+  1) from within the repository folder, and  
+  2) from the command terminal.
 
-Sophia's steps are as follows:  
-a. Clone your fork by putting the following command in terminal:  
-- git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
-  - *is this what the correct link should look like? https://github.com/BITSS-OPA/opa-deworming.git*  
-- (to get the link: click the green "clone or download" button in your online github repo)  
+##### Method 1: Within the repository
+1. Navigate to the folder on your computer where the repository is saved
+2. Right-click and select the 'Git Bash Here' command
+3. enter the command
+```git
+git fetch upstream
+```
+4. enter the command
+```git
+git pull upstream master
+```
+5. Push to origin within your local GitHub desktop app within the relevant repository
 
-_my thoughts: could be useful to include more information on how to access the command terminal, also do these steps work on every operating system?_  
+##### Method 2: From the Command terminal
+1. Locate the file path of the repository you would like to update  
+  a. can be done by dragging your folder into the terminal or right-clicking and copying the file path
+2. Open your device's command terminal (may also be referred to as the command prompt)
+3. enter the command
+```git
+cd 'your file path'
+```
+4. enter the command
+```git
+git fetch upstream
+```
+5. enter the command
+```git
+git pull upstream master
+```
+6. Push to origin within your local GitHub desktop app within the relevant repository
 
-b. Put the commands in terminal:  
-- cd into/cloned/fork-repo (you can find path by dragging your folder into terminal)
-- git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
-- git fetch upstream
-- git pull upstream master
-
-c. Push in your local github desktop app
-
-### Current Issues
-- had trouble with accessing the command terminal (is this separate from the **command prompt**?)  
-- do we need to use use GitBash and set up a remote following [these instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)?
-- unclear which program should be downloaded in order to access GitBash (some posts online indicated that the program should be accessible via the GitHub desktop app)
+Note: if there are issues with step 4, insert these following steps:
+1. Go to github.com and copy the url of the master repository you wish to update from
+2. enter the command
+```git
+git remote add upstream git://github.com/.../.../
+```
+where you insert the url for the master repository
 
 ### Common Issues // Troubleshooting  
-- need to clearly state when other programs need to be installed (perhaps include a pre-requisite section)
+Here are some of the solutions to common issues may have come across!  
+- make sure that you have installed all of the necessary software!
+  - make sure you have downloaded Git!!!
+- try the other method if one of them is not working for you (though the first method is recommended as it is slightly less complicated and you have zero chance of getting the file path wrong)
+- make sure you have the correct file path!
+  - if you cannot figure out how to copy the file path, then try method 1 or drag the folder itself into the command terminal
 
 ##### Issues accessing the command terminal
-
-
-#### Windows OS Specific issues
-
-#### Mac OS Specific Issues
+- you can access or find the command terminal by searching the term 'command' in your start menu
+- the command terminal is the same thing as the command prompt for Windows operating systems
+- the command terminal is merely a way for you to 'speak directly' to your computer, as it were... it should only have your computer's  user preset as the location from which you're accessing it
+- if you have issues accessing the command terminal, perhaps try using the other method!
