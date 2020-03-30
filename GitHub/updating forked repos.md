@@ -30,7 +30,10 @@ git fetch upstream
 ```git
 git pull upstream master
 ```
-5. Push to origin within your local GitHub desktop app within the relevant repository
+5. Push to origin within your local GitHub desktop app within the relevant repository or enter the following command (you may need to login to your GitHub account to do so)
+```git
+git push
+```
 
 ##### Method 2: From the Command terminal
 1. Locate the file path of the repository you would like to update  
@@ -48,7 +51,10 @@ git fetch upstream
 ```git
 git pull upstream master
 ```
-6. Push to origin within your local GitHub desktop app within the relevant repository
+6. Push to origin within your local GitHub desktop app within the relevant repository or enter the following command (you may need to login to your GitHub account to do so)
+```git
+git push
+```
 
 Note: if there are issues with step 4, insert these following steps:
 1. Go to github.com and copy the url of the master repository you wish to update from
