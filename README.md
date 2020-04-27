@@ -25,14 +25,14 @@ See the completed summaries for more clarification (for example: [Deworming Repo
 ### Deworming
 This folder contains summaries on deworming material and literature. 
 
-__[Deworm the World (general summary of deworming)](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary)
+__Deworm the World (general summary of deworming): [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary)__
 
-__[Deworming Cost-Effectiveness summary](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworming%20Cost-Effectiveness%20-%20summary)
+__Deworming Cost-Effectiveness summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworming%20Cost-Effectiveness%20-%20summary)__
 
 ### Minimum Wage
 This folder contains summaries on minimum wage material and literature 
 
-__[CBO Minimum Wage Report summary](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Minimum%20Wage/CBO%20Minimum%20Wage%20Report%20-%20summary)
+__CBO Minimum Wage Report summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Minimum%20Wage/CBO%20Minimum%20Wage%20Report%20-%20summary)__
 
 ## R Specific Tutorials
 
