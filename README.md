@@ -20,7 +20,7 @@ Please use the following header format on all summaries:
 
 #### Summary
 
-See the completed summaries for more clarification [Deworming Report](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary)
+See the completed summaries for more clarification (for example: [Deworming Report](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary))
 
 ### Deworming
 This folder contains summaries on deworming material and literature. 
