@@ -9,5 +9,5 @@
   * browser() - insert this code into script at a point where you want debugger to open at.
     * alternative to debugonce()
     * press continue to run code up until next brower() statement
-    * Analyzing error messages
-      * test_it() - provides error with traceback ability and option to rerun with debugger
+  * Analyzing error messages
+    * test_it() - provides error with traceback ability and option to rerun code with debugger
