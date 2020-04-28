@@ -8,6 +8,10 @@ This folder contains tutorials on how to use various GitHub functionalities.
 ### Repositories
 __How to Update a Forked Repository: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/updating%20forked%20repos.md)__  
 
+## RStudio Tutorials
+__How to Build a Custom Package: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/PackageWritingTutorial.md)__
+
+__How to Debug Code: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/RStudioDebugging.md)__
 ## Summaries
 This folder contains summaries of articles and papers related to the different analyses we are creating. They are sorted based upon topic.
 
