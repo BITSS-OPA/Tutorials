@@ -44,12 +44,12 @@ __CBO Minimum Wage Report summary: [here](https://github.com/BITSS-OPA/Tutorials
 
 #### Debugging
 
-### RShiny
+### RShiny: [here](https://github.com/BITSS-OPA/Tutorials/tree/master/R_Shiny)
 This folder contains online resources and demos on R Shiny.
 
-### R markdown
+### R markdown: [here](https://github.com/BITSS-OPA/Tutorials/tree/master/R_markdown)
 This folder contains online resources and demos on R markdown.
 
-### DiagrammeR
+### DiagrammeR: [here](https://github.com/BITSS-OPA/Tutorials/tree/master/DiagrammeR)
 This folder contains online resources and demos on DiagrammeR.
 
