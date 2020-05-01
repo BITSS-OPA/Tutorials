@@ -1,9 +1,9 @@
 # Tutorials
-useful tutorials 
+useful tutorials
 
 
 ## GitHub Specific Tutorials
-This folder contains tutorials on how to use various GitHub functionalities. 
+This folder contains tutorials on how to use various GitHub functionalities.
 
 ### Repositories
 __How to Update a Forked Repository: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/updating%20forked%20repos.md)__  
@@ -27,14 +27,14 @@ Please use the following header format on all summaries:
 See the completed summaries for more clarification (for example: [Deworming Report](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary))
 
 ### Deworming
-This folder contains summaries on deworming material and literature. 
+This folder contains summaries on deworming material and literature.
 
 __Deworm the World (general summary of deworming): [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary)__
 
 __Deworming Cost-Effectiveness summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworming%20Cost-Effectiveness%20-%20summary)__
 
 ### Minimum Wage
-This folder contains summaries on minimum wage material and literature 
+This folder contains summaries on minimum wage material and literature
 
 __CBO Minimum Wage Report summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Minimum%20Wage/CBO%20Minimum%20Wage%20Report%20-%20summary)__
 
@@ -53,3 +53,5 @@ This folder contains online resources and demos on R markdown.
 ### DiagrammeR: [here](https://github.com/BITSS-OPA/Tutorials/tree/master/DiagrammeR)
 This folder contains online resources and demos on DiagrammeR.
 
+## Summer Funding
+__Examples of Funding Available to Continue Working over Summer:__ [here](https://github.com/BITSS-OPA/Tutorials/tree/master/Summer%20Funding)
