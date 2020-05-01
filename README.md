@@ -53,5 +53,8 @@ This folder contains online resources and demos on R markdown.
 ### DiagrammeR: [here](https://github.com/BITSS-OPA/Tutorials/tree/master/DiagrammeR)
 This folder contains online resources and demos on DiagrammeR.
 
+### Plotly: [here](https://github.com/BITSS-OPA/Tutorials/tree/master/Plotly)
+This folder contains online resources and demos on Plotly.
+
 ## Summer Funding
 __Examples of Funding Available to Continue Working over Summer:__ [here](https://github.com/BITSS-OPA/Tutorials/tree/master/Summer%20Funding)
