@@ -10,3 +10,4 @@
 * open to students who received need based financial aid in the current academic year
 * requires a personal statement, resume, and budget
 * internship can be paid or unpaid, must last at least 4 weeks
+* application due in mid- to late April
