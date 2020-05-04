@@ -65,7 +65,7 @@ git remote add upstream git://github.com/.../.../
 where you insert the url for the master repository
 
 ### Common Issues // Troubleshooting  
-Here are some of the solutions to common issues may have come across!  
+Here are some solutions to common issues you may have come across!  
 - make sure that you have installed all of the necessary software!
   - make sure you have downloaded Git!!!
 - try the other method if one of them is not working for you (though the first method is recommended as it is slightly less complicated and you have zero chance of getting the file path wrong)
