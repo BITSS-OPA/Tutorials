@@ -1,4 +1,5 @@
 # Package Writing in RStudio
+* Source: https://rstudio.com/resources/webinars/programming-part-3-package-writing-in-rstudio/
   * Tutorial
     * Packages allow for easy distribution of any functions apps etc through R
     * In order to create your own package:
