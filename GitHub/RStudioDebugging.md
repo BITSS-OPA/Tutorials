@@ -1,4 +1,5 @@
 # Debugging in RStudio Notes/Tutorial
+  * Source: https://rstudio.com/resources/webinars/programming-part-2-debugging-code-in-rstudio/
   * debugonce() - opens debugger next time function in argument is around
     * will open different console with traceback
     * stops code mid execution in order to understand what's happening line by line
