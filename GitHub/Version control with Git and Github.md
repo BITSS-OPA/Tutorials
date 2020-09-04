@@ -41,7 +41,7 @@
 
 #### Adding files from local computer to a remote repository
 <p align = "center">
-  <img  width="100%" src="git_add.png">
+  <img  width="100%" src="VC tutorial img/git_add.png">
   <br>
     <em>Concept Map for Adding File to Github</em>
 </p>
@@ -125,7 +125,7 @@ You can create a new branch at any commit node, but from that point on, all the 
 
 
 <p align = "center">
-  <img  width="100%" src="git_branch.png">
+  <img  width="100%" src="VC tutorial img/git_branch.png">
   <br>
     <em>Visualization of Branches, Source: Udacity.com</em>
 </p>
@@ -159,7 +159,7 @@ Two methods are equivalent.
   * Step 1: checkout a new branches  
   * Step 2: add, commit, push (git push origin new-branch)
   * Step 3: go to github.com, there will be a "pull request" in the repository so that the owner can review and make comments
-  * Step 4: Make changes according to the comments and then repeat Step 1-3. 
+  * Step 4: Make changes according to the comments and then repeat Step 1-3.
 
 
 ---
