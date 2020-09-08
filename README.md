@@ -24,19 +24,19 @@ Please use the following header format on all summaries:
 
 #### Summary
 
-See the completed summaries for more clarification (for example: [Deworming Report](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary))
+See the completed summaries for more clarification (for example: [Deworming Report](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary.md))
 
 ### Deworming
 This folder contains summaries on deworming material and literature.
 
-__Deworm the World (general summary of deworming): [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary)__
+__Deworm the World (general summary of deworming): [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary.md)__
 
-__Deworming Cost-Effectiveness summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworming%20Cost-Effectiveness%20-%20summary)__
+__Deworming Cost-Effectiveness summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworming%20Cost-Effectiveness%20-%20summary.md)__
 
 ### Minimum Wage
 This folder contains summaries on minimum wage material and literature
 
-__CBO Minimum Wage Report summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Minimum%20Wage/CBO%20Minimum%20Wage%20Report%20-%20summary)__
+__CBO Minimum Wage Report summary: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Minimum%20Wage/CBO%20Minimum%20Wage%20Report%20-%20summary.md)__
 
 ## R Specific Tutorials
 
