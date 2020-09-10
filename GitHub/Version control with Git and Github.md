@@ -41,7 +41,7 @@
 
 #### Adding files from local computer to a remote repository
 <p align = "center">
-  <img  width="100%" src="VC tutorial img/git_add.png">
+  <img  width="100%" src="VC tutorial img/git_add.PNG">
   <br>
     <em>Concept Map for Adding File to Github</em>
 </p>

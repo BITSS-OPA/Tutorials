@@ -3,7 +3,7 @@
 #### Model
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/model.png">
+  <img  width="100%" src="images in tutorial/model.PNG">
   <br>
     <em>How R Shiny Works</em>
 </p>
@@ -29,7 +29,7 @@ Build your apps around inputs and outputs!
 * Input functions (built-in in shiny library)
   * Example:
   <p align = "center">
-    <img  width="100%" src="images in tutorial/sliderInput.png">
+    <img  width="100%" src="images in tutorial/sliderInput.PNG">
     <br>
       <em>Input Function Example</em>
   </p>
@@ -42,7 +42,7 @@ Build your apps around inputs and outputs!
 * Output functions
   * Example:
   <p align = "center">
-    <img  width="100%" src="images in tutorial/plotOutput.png">
+    <img  width="100%" src="images in tutorial/plotOutput.PNG">
     <br>
       <em>Output Function Example</em>
   </p>
@@ -51,7 +51,7 @@ Build your apps around inputs and outputs!
 
 #### Template Progress
 <p align = "center">
-  <img  width="100%" src="images in tutorial/templateProgress.png">
+  <img  width="100%" src="images in tutorial/templateProgress.PNG">
   <br>
     <em>UI Object Built with Input and Output Function</em>
 </p>
@@ -70,7 +70,7 @@ Server object assembles inputs into outputs
 2. Build objects to display with `render*()` function  
   `output$hist <- renderPlot()`  
   <p align = "center">
-    <img  width="100%" src="images in tutorial/render.png">
+    <img  width="100%" src="images in tutorial/render.PNG">
     <br>
       <em>Render Function Example</em>
   </p>
@@ -79,7 +79,7 @@ Server object assembles inputs into outputs
 
 3. Access input values with `input$"inputId"`This is where reactivity automatically occurs.
 <p align = "center">
-  <img  width="100%" src="images in tutorial/template2.png">
+  <img  width="100%" src="images in tutorial/template2.PNG">
   <br>
     <em>Simple Server Function Example</em>
 </p>
@@ -89,7 +89,7 @@ Input value changes whenever user changes it, whereas output will update automat
 #### Template Progress So Far  
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/progress2.png">
+  <img  width="100%" src="images in tutorial/progress2.PNG">
   <br>
     <em>A Simple Shiny App Built</em>
 </p>

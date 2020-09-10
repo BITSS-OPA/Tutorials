@@ -4,7 +4,7 @@
 
 ### Reactivity Model
 <p align = "center">
-  <img  width="100%" src="images in tutorial/reactivityModel.png">
+  <img  width="100%" src="images in tutorial/reactivityModel.PNG">
   <br>
     <em>Reactivity Model</em>
 </p>
@@ -17,7 +17,7 @@ Reactive values work together with reactive functions. If you put reactive value
 `Error in .getReactiveEnvironment()$currentContext()`
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/twostepreactivity.png">
+  <img  width="100%" src="images in tutorial/twostepreactivity.PNG">
   <br>
     <em>Two Step Process for Reactivity</em>
 </p>
@@ -28,7 +28,7 @@ Reactive values work together with reactive functions. If you put reactive value
 
   Make objects display with various render*() functions, such as `renderDataTable()`, `renderImage()`. Details see renderPlot().
   <p align = "center">
-    <img  width="100%" src="images in tutorial/renderfunc.png">
+    <img  width="100%" src="images in tutorial/renderfunc.PNG">
     <br>
       <em>render*() Function</em>
   </p>
@@ -37,7 +37,7 @@ Reactive values work together with reactive functions. If you put reactive value
   *Because render *() responds to all reactive values, sometimes it results in the challenge case presented below.*
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/challengecase.png">
+    <img  width="100%" src="images in tutorial/challengecase.PNG">
     <br>
       <em>Challenge Case for render*()</em>
   </p>
@@ -48,7 +48,7 @@ Reactive values work together with reactive functions. If you put reactive value
   reactive() builds a reactive object (reactive expression as seen in the Reactivity Model above). We use this function when our Shiny App needs to display two objects that need to use the same data.   
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/reactive1.png">
+    <img  width="100%" src="images in tutorial/reactive1.PNG">
     <br>
       <em>Failure case of render*()</em>
   </p>
@@ -60,7 +60,7 @@ Reactive values work together with reactive functions. If you put reactive value
 
   After adding a reactive object, we now could use the same data for both `renderPlot` and `renderPrint`
   <p align = "center">
-    <img  width="50%" src="images in tutorial/afterReactive.png">
+    <img  width="50%" src="images in tutorial/afterReactive.PNG">
     <br>
       <em>Added Reactive Object</em>
   </p>
@@ -80,14 +80,14 @@ Reactive values work together with reactive functions. If you put reactive value
 
 * Works with *Action Buttons* (which goes in `ui <- fluidPage()`)
 <p align = "center">
-  <img  width="100%" src="images in tutorial/actionbutton.png">
+  <img  width="100%" src="images in tutorial/actionbutton.PNG">
   <br>
     <em>Action button function structure</em>
 </p>
 
 * It triggers code to run on server with observeEvent() and it goes in `server` objects
 <p align = "center">
-  <img  width="100%" src="images in tutorial/observeEvent.png">
+  <img  width="100%" src="images in tutorial/observeEvent.PNG">
   <br>
     <em>Observe Event function structure</em>
 </p>
@@ -95,7 +95,7 @@ Reactive values work together with reactive functions. If you put reactive value
 *NOTE:* the first input for the obserEvent() is the update button's inputId!!
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/observeEventAssembled.png">
+  <img  width="100%" src="images in tutorial/observeEventAssembled.PNG">
   <br>
     <em>Action Button and observeEvent Assembled</em>
 </p>
@@ -112,7 +112,7 @@ It uses the same syntax as render*(), reactive(), and isolate()
 * It works like reactive() to create a reactive object, but it only responds to specific values such as an action button.
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/eventReactive.png">
+  <img  width="100%" src="images in tutorial/eventReactive.PNG">
   <br>
     <em>How to Use eventReactive() with an Action Button</em>
 </p>
@@ -123,7 +123,7 @@ It uses the same syntax as render*(), reactive(), and isolate()
 * But you could create a reactive value with reactiveValues() that you could overwrite and add values to later on.
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/reactivevalue.png">
+  <img  width="100%" src="images in tutorial/reactivevalue.PNG">
   <br>
     <em>How to Use eventReactive() with an Action Button</em>
 </p>
@@ -134,7 +134,7 @@ Later on, we overwrite this reactive value in observeEvent() so that when we cli
 #### Review!
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/updatedModel.png">
+  <img  width="100%" src="images in tutorial/updatedModel.PNG">
   <br>
     <em>Updated Model with New Functions</em>
 </p>
@@ -142,7 +142,7 @@ Later on, we overwrite this reactive value in observeEvent() so that when we cli
 ***NOTE: Try to place code where it will be re-run as little as necessary!***
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/rerun.png">
+  <img  width="100%" src="images in tutorial/rerun.PNG">
   <br>
     <em>How Shiny App Runs Codes</em>
 </p>

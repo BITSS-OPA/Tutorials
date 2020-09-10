@@ -20,7 +20,7 @@ In R Shiny, we could add content with `tags` functions that essentially recreate
 * We need to call `tag$h1()` like a function for it to work
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/tagsSyntax.png">
+  <img  width="100%" src="images in tutorial/tagsSyntax.PNG">
   <br>
     <em>Tags Function Syntax Compared with HTML</em>
 </p>
@@ -46,14 +46,14 @@ In R Shiny, we could add content with `tags` functions that essentially recreate
   * Use HTML() to pass a character string as a raw HTML
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/rawHTML.png">
+    <img  width="100%" src="images in tutorial/rawHTML.PNG">
     <br>
       <em>Content Added with Raw HTML</em>
   </p>
 
   * Or, you could directly use the list of functions accessible through tags.
   <p align = "center">
-    <img  width="100%" src="images in tutorial/tagsFunction.png">
+    <img  width="100%" src="images in tutorial/tagsFunction.PNG">
     <br>
       <em>Content Added with Tags Function</em>
   </p>
@@ -69,7 +69,7 @@ Layout functions help us divide the UI into a grid. The two functions introduced
 ##### fluidRow()
 * Adds rows to the grid. Each new row goes below the previous one.  
 <p align = "center">
-  <img  width="100%" src="images in tutorial/fluidRow.png">
+  <img  width="100%" src="images in tutorial/fluidRow.PNG">
   <br>
     <em>fluidRow() Adds New Rows</em>
 </p>
@@ -79,7 +79,7 @@ Layout functions help us divide the UI into a grid. The two functions introduced
 * Each new column goes to the left of the previous column
 * Need to specify the width and offset of each column out of 12
 <p align = "center">
-  <img  width="100%" src="images in tutorial/column.png">
+  <img  width="100%" src="images in tutorial/column.PNG">
   <br>
     <em>fluidRow() Adds New Rows</em>
 </p>
@@ -87,7 +87,7 @@ Layout functions help us divide the UI into a grid. The two functions introduced
 ##### Assemble fluidRow() and column()
 To place an element in the grid, call it as an argument of a layout function
 <p align = "center">
-  <img  width="100%" src="images in tutorial/layoutExample.png">
+  <img  width="100%" src="images in tutorial/layoutExample.PNG">
   <br>
     <em>A Layout Built with Layout Functions</em>
 </p>
@@ -98,7 +98,7 @@ Remember we introduced our app as a 3D coordinate system? Now we will talk about
 
 We use panels to group multiple elements into a single unit with its own properties.
 <p align = "center">
-  <img  width="100%" src="images in tutorial/12panels.png">
+  <img  width="100%" src="images in tutorial/12panels.PNG">
   <br>
     <em>12 Built-In Panel Functions </em>
 </p>
@@ -107,7 +107,7 @@ We use panels to group multiple elements into a single unit with its own propert
 
 * groups elements into a grey "well" / rectangle  
 <p align = "center">
-  <img  width="100%" src="images in tutorial/wellPanel.png">
+  <img  width="100%" src="images in tutorial/wellPanel.PNG">
   <br>
     <em>Put the Slider and the Title Inside a "Well" </em>
 </p>
@@ -121,7 +121,7 @@ Now as we can see, because we put the code for the slider and the title inside t
   `tabsetPanel()` combines tabs into a single panel.  
   It uses *tabs* to navigate between tabs.
   <p align = "center">
-    <img  width="100%" src="images in tutorial/tabsetPanel.png">
+    <img  width="100%" src="images in tutorial/tabsetPanel.PNG">
     <br>
       <em>Combining multiple tabs into one panel with tabsetPanel() </em>
   </p>
@@ -129,7 +129,7 @@ Now as we can see, because we put the code for the slider and the title inside t
   `navlistPanel()` also combines tabs into a single panel.
   But here, it uses *links* to navigate between tabs.  
   <p align = "center">
-    <img  width="100%" src="images in tutorial/navlistPanel.png">
+    <img  width="100%" src="images in tutorial/navlistPanel.PNG">
     <br>
       <em>Combining multiple tabs into one panel with navlistPanel() </em>
   </p>
@@ -140,7 +140,7 @@ Now as we can see, because we put the code for the slider and the title inside t
   `navbarMenu()` combines tab links into a dropdown menu for `navbarPage()`
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/navlistPanel.png">
+    <img  width="100%" src="images in tutorial/navlistPanel.PNG">
     <br>
       <em>Using navbarMenu() with navbarPage() </em>
   </p>
@@ -155,7 +155,7 @@ Now as we can see, because we put the code for the slider and the title inside t
 * Add input/output elements as arguments into the two functions above
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/sidebarLayout.png">
+  <img  width="100%" src="images in tutorial/sidebarLayout.PNG">
   <br>
     <em>Combining multiple tabs into one panel with navlistPanel() </em>
 </p>
@@ -166,7 +166,7 @@ Now as we can see, because we put the code for the slider and the title inside t
 * Framework for customizing the appearance of elements in a webpage, presents your webpage in a personalized way
 
 <p align = "center">
-  <img  width="100%" src="images in tutorial/css1.png">
+  <img  width="100%" src="images in tutorial/css1.PNG">
   <br>
     <em>CSS Style Hierarchy </em>
 </p>
@@ -178,7 +178,7 @@ You could style a webpage with CSS in three ways:
   * Then set the theme argument of fluidPage() to the .css filename  
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/link1.png">
+    <img  width="100%" src="images in tutorial/link1.PNG">
     <br>
       <em>One Way to Link the Theme with a .css File </em>
   </p>
@@ -186,7 +186,7 @@ You could style a webpage with CSS in three ways:
   * Or you could place a link in the app's header with to the file with `tags$head()` and `tags$link()`
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/link2.png">
+    <img  width="100%" src="images in tutorial/link2.PNG">
     <br>
       <em>Another Way to Link the Theme with a .css File </em>
   </p>
@@ -196,7 +196,7 @@ You could style a webpage with CSS in three ways:
   * We could also write global CSS with `tags$head()` and `tags$style()` and `HTML()` ourselves
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/link3.png">
+    <img  width="100%" src="images in tutorial/link3.PNG">
     <br>
       <em>Write Global CSS in Header</em>
   </p>
@@ -204,7 +204,7 @@ You could style a webpage with CSS in three ways:
   * Or you could save the CSS as a file in your app directory and include it with `includeCSS()`
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/link4.png">
+    <img  width="100%" src="images in tutorial/link4.PNG">
     <br>
       <em>Write Global CSS in a CSS File and Then Link It</em>
   </p>
@@ -214,7 +214,7 @@ You could style a webpage with CSS in three ways:
   * Set the style argument in Shiny's tag functions. Note that this will overrides global CSS or external CSS file.
 
   <p align = "center">
-    <img  width="100%" src="images in tutorial/link5.png">
+    <img  width="100%" src="images in tutorial/link5.PNG">
     <br>
       <em>Individual CSS in Tag's Style Attribute</em>
   </p>
