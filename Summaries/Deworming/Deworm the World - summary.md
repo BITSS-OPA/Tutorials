@@ -1,5 +1,5 @@
 ### Evidence Action - Deworm the World Summary
-#### Author: Orianna Jia | Date: ~ March 3, 2020 (Week 3)
+#### Author: Orianna Jia | Date: March, 2020 
 
 ##### Source: [Evidence Action](https://www.evidenceaction.org/dewormtheworld-2/)
 
