@@ -8,7 +8,6 @@
 3. Once you have signed in you can toggle through previous dates using the *Edition Date* dropdown.
 
 ```{r}
-install.packages("knitr")
 library(knitr)
 knitr::include_graphics("todayspaper.png")
 ```
@@ -23,8 +22,6 @@ knitr::include_graphics("todayspaper.png")
 3. Once signed in, you can toggle through previous dates and it will show you top news from that day.
 
 ```{r}
-install.packages("knitr")
-library(knitr)
 knitr::include_graphics("wsjpaper.png")
 ```
 
