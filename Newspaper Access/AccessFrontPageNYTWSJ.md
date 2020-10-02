@@ -7,7 +7,11 @@
   To create a new account with Berkeley's free subscription click [here](http://www.accessnyt.com/?fbclid=IwAR3j2rvh8olBuz5W6vSnteY4WJ3UbsTuyBoyS8zVVN7xVZZEd6Hcg7GMjfc).
 3. Once you have signed in you can toggle through previous dates using the *Edition Date* dropdown.
 
-![alt text](/Users/laurenpeterson/Desktop/todayspaper.png)
+```{r}
+install.packages("knitr")
+library(knitr)
+knitr::include_graphics("todayspaper.png")
+```
 
 4. From there, you are able to see highlights and the Front Page of the paper for that day. You can also toggle to other tabs that may suit your research needs.
 
@@ -18,6 +22,10 @@
 
 3. Once signed in, you can toggle through previous dates and it will show you top news from that day.
 
-![alt text](/Users/laurenpeterson/Desktop/wsjpaper.png)
+```{r}
+install.packages("knitr")
+library(knitr)
+knitr::include_graphics("wsjpaper.png")
+```
 
 4. From there, you are able to see highlights and most popular paper for that day. You can also toggle to other tabs that may suit your research needs. This is not as concise as the NYT archive, however you are able to find top stories here.
