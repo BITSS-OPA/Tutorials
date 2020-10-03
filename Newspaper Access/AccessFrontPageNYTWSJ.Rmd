@@ -1,3 +1,7 @@
+---
+output: github_document
+---
+
 ### Accessing the main pages of New York Times and Wall Street Journal for previous dates:
 
 #### New York Times:
