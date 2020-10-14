@@ -105,7 +105,7 @@ All the files should be in one directory! This includes datasets, images, code f
 **2. Use Shinyapps.io as your server**
 * Log into the website first
 * Install "shinyapps" from Github
-  * Run `devtools::install_github("rstudio/shinyapps")` in your console.
+  * Run `install.packages("shiny")` in your console.
 * Enter tokens to know which shinyapp account to pair ID with.
 * Now you can publish it to ShinyApps!
 
