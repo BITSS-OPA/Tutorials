@@ -1,5 +1,7 @@
 ## Updating a Forked Repo
 
+**Remember to do this first before you start editing files on your own forked version to keep synced**
+
 #### Resources
 - [Sophia's link, user tutorial](https://gist.github.com/CristinaSolana/1885435)  
 - [Github Instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)  
@@ -7,7 +9,8 @@
 
 
 #### Pre-requisites
-- you have cloned and forked a repository to your local device  
+- you have forked a repository and cloned it to your local device  
+  + To clone the repo, run `git clone forked-repo-url` in a folder where you want the repository files to be
 
 __Things that should already be installed__
 - GitHub Desktop app
@@ -35,7 +38,7 @@ git pull upstream master
 git push
 ```
 
-##### Method 2: From the Command terminal
+##### Method 2: From the Command terminal (Recommended)
 1. Locate the file path of the repository you would like to update  
   a. can be done by dragging your folder into the terminal or right-clicking and copying the file path
 2. Open your device's command terminal (may also be referred to as the command prompt)
