@@ -87,7 +87,7 @@ Reactive values work together with reactive functions. If you put reactive value
 
 * It triggers code to run on server with observeEvent() and it goes in `server` objects
 <p align = "center">
-  <img  width="100%" src="images in tutorial/observeEvent.PNG">
+  <img  width="100%" src="images in tutorial/observeevent.PNG">
   <br>
     <em>Observe Event function structure</em>
 </p>
