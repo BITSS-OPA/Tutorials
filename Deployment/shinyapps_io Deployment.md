@@ -33,7 +33,7 @@ Note that in the future, you might be asked to configure your `rsconnect` to the
 
 Open your shiny app and on the top banner right next to Run App button, there is a blue Taiji-looking button. Click on the dropdown menu, and select *Publish Application...*
 
-![publish](./images/publish_icon.png)
+![publish](./images/publish_icon.PNG)
 
 Connect to your account or opa account in the future, name the shiny app, and then click Publish.
 
@@ -42,5 +42,4 @@ Connect to your account or opa account in the future, name the shiny app, and th
 
 2. If someone publishes the same app already to the shared opa account, you can simply click the Publish to *app_name* and it should update the same app instead of writing another one.
 
-![published](./images/published.png)
- 
+![published](./images/published.PNG)

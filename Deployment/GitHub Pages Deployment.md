@@ -28,12 +28,10 @@ The easiest way to do this is on GitHub website. Click Add file and then change 
 
 1. Go to your remote repository and click on "Settings" on the top banner. Scroll all the way down until you see **GitHub Pages** as shown below.
 
-![GitHubPages](./images/GitHubPages.png)
+![GitHubPages](./images/GitHubPages.PNG)
 
 2. Choose the branch your `index.html` is on. (Most of the time it should be main/master.)
 
   Choose the folder. (Default should be `/(root)`, even though there is a `doc` folder in the OPA folder structure.)
 
 3. Click Save, but expect to wait from half an hour to an hour for the website to be built.
-
- 

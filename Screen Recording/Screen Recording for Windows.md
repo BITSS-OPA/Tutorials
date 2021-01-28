@@ -10,12 +10,12 @@ There is a super simple built-in tool for Windows 10 to record your screen and y
 
 Simply press the `Windows Key + G` at the same time to open XBox Game Bar
 
-![gamebar](./images/gamebar.png)
+![gamebar](./images/gamebar.PNG)
 
 Select the second to left icon "Capture"
 
-![microphone](./images/microphone.png)
+![microphone](./images/microphone.PNG)
 
 Turn on the microphone and press the circle icon to start recording
 
-After you've finished recording, upload the saved file to your Google Drive and share the link. 
+After you've finished recording, upload the saved file to your Google Drive and share the link.
