@@ -162,8 +162,16 @@ Now as we can see, because we put the code for the slider and the title inside t
 
 ### Style with CSS
 
-* CSS - Cascading Style Sheets
-* Framework for customizing the appearance of elements in a webpage, presents your webpage in a personalized way
+**Current Protocol (2.11.21)**
+
+Currently, the way OPA Projects use CSS is through the
+_shinythemes_ library. This library gives us an easy way to choose between a vast variety of CSS themes.
+
+These themes can be found at : https://bootswatch.com/
+
+
+#### CSS - Cascading Style Sheets
+Framework for customizing the appearance of elements in a webpage, presents your webpage in a personalized way
 
 <p align = "center">
   <img  width="100%" src="images in tutorial/css1.PNG">
