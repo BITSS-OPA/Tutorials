@@ -47,3 +47,9 @@
 **SPUR**
 - About the org: Bay Area non-profit focused on developing solutions to urban issues through research and advocacy. Focuses on 7 policy areas: planning, housing, transportation, sustainability and resilience, economic justice, good government, and food and agriculture.
   - No current internships or entry-level positions open at the moment, but you can look at the careers page [here](https://www.spur.org/about/work-or-volunteer).
+  - 
+**UCDC**
+- About the program: a University of Calfiornia systemwide program that sends a small cohort of students to Washing DC for the semester to pursue internships in policy, economic and political spheres for career development. It is a semester long intensive program (13.5 units total) and a great opportunity to be involved with polciy related orgs. After acceptance you have to apply to places to intern: anywhere in D.C. is viable essentially (which is a very large number of institute, think tanks and agencies).
+
+**PPIA**
+ - Goldman School of Public Policy (Berkeley's) summer public policy program for rising seniors, applications are due in late October. Hands on training and education in public policy including quant and writing components.
