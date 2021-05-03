@@ -71,6 +71,7 @@ This folder contains tutorials to deploy OPA projects and materials on Binder, G
 
 ## Miscellaneous tutorials for URAP work  
 
+__Resources for using the Social Science Reproduction Platform (SSRP): [here](https://github.com/BITSS-OPA/Tutorials/blob/master/ssrp_resources.md)__
 __Writing a README.md file for a dynamic document: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Tutorial%20for%20DD%20readme.md)__  
 __Newspaper Access: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Newspaper%20Access/AccessFrontPageNYTWSJ.md)__  
 __Screen Recording: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Screen%20Recording/Screen%20Recording%20for%20Windows.md)__  
