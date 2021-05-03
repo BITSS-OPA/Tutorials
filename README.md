@@ -16,14 +16,16 @@ This folder contains summaries of articles and papers related to the different a
 
 Please use the following header format on all summaries:
 
+---
 ### "Author/Organization" - "Specific Article Being Summarized" (e.g. CBO Report - Minimum Wage Options Summary)
 #### Author: "Your Name" | "the date the report was written" (e.g. Orianna Jia | Date: ~ March 10-17, 2020 (Weeks 4 + 5))
 
 ##### Source: "A link to the article being summarized" (e.g. [Minimum Wage CBO Report](https://www.cbo.gov/system/files/2019-07/CBO-55410-MinimumWage2019.pdf))
 
 #### Summary
+---
 
-See the completed summaries for more clarification (for example: [Deworming Report](https://github.com/BITSS-OPA/Tutorials/blob/master/Summaries/Deworming/Deworm%20the%20World%20-%20summary.md))
+See the completed summaries below for more clarification.
 
 ### Deworming: [here](https://github.com/BITSS-OPA/Tutorials/tree/master/Summaries/Deworming)
 This folder contains summaries on deworming material and literature.
