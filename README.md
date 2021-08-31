@@ -1,5 +1,5 @@
 # Tutorials
-useful tutorials
+Useful tutorials
 
 
 ## GitHub Specific Tutorials
